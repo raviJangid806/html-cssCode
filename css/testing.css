@@ -1,0 +1,11 @@
+.el-class {
+    color: red;
+}
+
+#el-id {
+    background-color: blue;
+}
+
+#hidden-div {
+    display:none;
+}
